@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indian2K</title>
-    <link>https://indian2k.org/</link>
+    <link>https://indian2k.github.io/</link>
     <description>Recent content on Indian2K</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 May 2021 00:53:56 +0800</lastBuildDate><atom:link href="https://indian2k.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 May 2021 00:53:56 +0800</lastBuildDate><atom:link href="https://indian2k.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://indian2k.org/posts/my-first-post/</link>
+      <link>https://indian2k.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 11 May 2021 00:53:56 +0800</pubDate>
       
-      <guid>https://indian2k.org/posts/my-first-post/</guid>
+      <guid>https://indian2k.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     

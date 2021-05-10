@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Indian2K</title>
-    <link>https://indian2k.org/categories/</link>
+    <link>https://indian2k.github.io/categories/</link>
     <description>Recent content in Categories on Indian2K</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://indian2k.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://indian2k.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
