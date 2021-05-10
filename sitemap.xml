@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://indian2k.org/categories/</loc></url><url><loc>https://indian2k.org/</loc></url><url><loc>https://indian2k.org/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://indian2k.org/</loc>
+    <lastmod>2021-05-11T00:53:56+08:00</lastmod>
+  </url><url>
+    <loc>https://indian2k.org/posts/my-first-post/</loc>
+    <lastmod>2021-05-11T00:53:56+08:00</lastmod>
+  </url><url>
+    <loc>https://indian2k.org/posts/</loc>
+    <lastmod>2021-05-11T00:53:56+08:00</lastmod>
+  </url><url>
+    <loc>https://indian2k.org/categories/</loc>
+  </url><url>
+    <loc>https://indian2k.org/tags/</loc>
+  </url>
+</urlset>
